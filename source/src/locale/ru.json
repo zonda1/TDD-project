@@ -1,0 +1,8 @@
+{
+    "signUp": "Регистрация",
+    "username": "Имя пользователя",
+    "email": "Эл. почта",
+    "password": "Пароль",
+    "passwordRepeat": "Подтвердите пароль",
+    "passwordMismatch": "Пароли не совпадают"
+}
